@@ -761,4 +761,8 @@
 ||viruscheckmake.cf^$important
 ||virusdetector247.com^$important
 ||virusheal.com^$important
+<<<<<<< HEAD:AdguardHome/blacklist
 ||patranally.xyz
+=======
+||patranally.xyz
+>>>>>>> bd0a6d79aa292e78a2caaa279121162762b1ca21:AddressListPublic/AdguardHome/blacklist
